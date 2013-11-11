@@ -1,3 +1,12 @@
+This repository includes some version of external libs that are subject
+to other licences :
+Bootstrap : https://github.com/twbs/bootstrap/blob/master/LICENSE
+JQuery : https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt
+----
+
+The following applies to the other files in the Booliom repository:
+
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
