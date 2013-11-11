@@ -1,12 +1,16 @@
 {shared{
   open Eliom_lib
   open Eliom_content
+  open Bootstrap_shared
 }}
 
-open Bootstrap_shared
 
 {server{
   open Server
+}}
+
+{client{
+  open Client
 }}
 
 module test_app =
